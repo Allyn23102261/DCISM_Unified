@@ -6,3 +6,13 @@ During enrollment, students may experience long and uncertain waiting times when
 Students may also need to frequently monitor ISMIS or separate announcements to know whether additional slots or petitioned courses have become available. The absence of a centralized and timely notification system makes the enrollment process less convenient and can cause delays in completing enrollment requirements.
 
 To address these issues, DCISM_Unified aims to provide students with estimated accommodation time slots for enrollment concerns and send notifications regarding important enrollment updates, such as available course slots and petitioned courses, while coordinating with the existing Hermes Queueing System.
+
+
+Proposed solution:
+# DCISM_Unified: A Centralized Notification System that Fetches from the School’s ISMIS, Hermes, and Professor’s Updates on Enrollment Statuses
+
+Students can receive alerts when:
+     - Their estimated enrollment assistance time is approaching
+     - Their queue number is about to be called through integration with the Hermes Queueing System
+     - A slot becomes available in a requested course 
+
