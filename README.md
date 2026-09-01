@@ -15,4 +15,8 @@ Students can receive alerts when:
      - Their estimated enrollment assistance time is approaching
      - Their queue number is about to be called through integration with the Hermes Queueing System
      - A slot becomes available in a requested course 
-
+     - A petitioned Course is approved or opened
+     - An enrollment concern changes status
+     - A simultaneous, course equivalency, override request changes status 
+     - An important enrollment deadline is approaching 
+     - Student leaders or representatives can post and notify enrollment updates.
