@@ -20,3 +20,11 @@ Students can receive alerts when:
      - A simultaneous, course equivalency, override request changes status 
      - An important enrollment deadline is approaching 
      - Student leaders or representatives can post and notify enrollment updates.
+
+By:
+Bacolod, Zach Michael - BSIT 3
+Jankovic, Mirko - BSIT 3
+Medina, Karl Emmanuel - BSIT 3
+Nuñeza, Oieu Zhydd - BSIT 
+Segundino, Allyn James - BSIT 3
+
