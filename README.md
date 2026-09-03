@@ -62,3 +62,14 @@ Secondary users include DCISM faculty and administrative staff, who can use the 
 
 	Furthermore, it is distinct from the systems aforementioned as it is built to solve one particular narrow problem, i.e., helping students track and get notified about ongoing enrollment concern updates such as newly opened course schedules, recently available courses from petitions, petitioned courses' statuses, queuing notifier, and many more, which the systems lack.
 
+5.  Feasibility Check 
+	Budget — Feasible at ₱0–low cost. Core stack (Firebase/Supabase for backend + auth, free tiers) covers notifications, database, and hosting for a student-scale user base. Main cost risk is if USC requires official ISMIS/Hermes API access or a dedicated server — likely absorbed by the university if this becomes a sanctioned integration, not an out-of-pocket group expense.
+
+	Time — Tight but doable for a semester-long project. Riskiest part isn't the app itself, it's getting real coordination/data access from ISMIS and the Hermes Queueing system — that dependency could stall development if USC IT doesn't grant access early. Recommend building against mocked/sample data first, then integrating live data once access is confirmed.
+
+	Skills — Well within the group's current stack: React Native/Expo for the mobile app, Firebase or Supabase for real-time notifications and auth, MySQL if a relational schema is needed for slot/queue data.
+
+	Technology — The main technical risk is integration, not the app UI.
+		1. Official integration — USC/ISMIS or Hermes exposes an API/webhook you can subscribe to for real-time slot and petition status, but depends entirely on 		   institutional approval.
+		2. Workaround (scraping/polling) — periodically checking ISMIS for changes, doable without official access, but fragile (breaks if ISMIS changes its 			   layout).
+
