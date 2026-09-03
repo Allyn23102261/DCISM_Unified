@@ -31,15 +31,29 @@ Segundino, Allyn James - BSIT 3
 
 1. The Problem
 
-During enrollment, DCISM students often experience long waiting times and uncertainty when dealing with enrollment concerns such as unavailable subject slots, petitioned courses, and other registration issues. Students may need to repeatedly check ISMIS, contact the department, or wait in long queues without knowing when their concern will be addressed.
+     During enrollment, DCISM students often experience long waiting times and uncertainty when dealing with enrollment concerns such as unavailable subject slots, petitioned courses, and other registration issues. Students may need to repeatedly check ISMIS, contact the department, or wait in long queues without knowing when their concern will be addressed.
 
-This creates unnecessary delays, confusion, and inconvenience for both students and department staff. DCISM_Unified aims to solve this problem by improving how enrollment concerns and updates are communicated and managed, making the process more organized, efficient, and convenient for students.
+     This creates unnecessary delays, confusion, and inconvenience for both students and department staff. DCISM_Unified aims to solve this problem by improving how enrollment concerns and updates are communicated and managed, making the process more organized, efficient, and convenient for students.
 
 2. Target Users
 
-The primary target users of DCISM_Unified are students under the Department of Computer, Information Sciences and Mathematics (DCISM) who experience enrollment-related concerns. These include students who need to request additional course slots, follow up on petitioned subjects, resolve enrollment issues, or wait for assistance from the department.
+     The primary target users of DCISM_Unified are students under the Department of Computer, Information Sciences and Mathematics (DCISM) who experience enrollment-related concerns. These include students who need to request additional course slots, follow up on petitioned subjects, resolve enrollment issues, or wait for assistance from the department.
 
-The application is especially useful for students who currently have to repeatedly check ISMIS, contact department personnel, or wait in long queues without knowing when their concern will be accommodated. Through DCISM_Unified, students can receive notifications about available slots, updates on petitioned courses, and an estimated time when their enrollment concern can be handled.
+     The application is especially useful for students who currently have to repeatedly check ISMIS, contact department personnel, or wait in long queues without knowing when their concern will be accommodated. Through DCISM_Unified, students can receive notifications about available slots, updates on petitioned courses, and an estimated time when their enrollment concern can be handled.
 
 Secondary users include DCISM faculty and administrative staff, who can use the system to organize student concerns, provide updates, and manage the enrollment queue more efficiently.
+
+3. Existing Solutions
+
+     a. 
+     b. 
+     c. College of Computer Studies queuing and electronic bulletin system
+             Outside of the institution’s already implemented and relating systems, there is also an existing platform made available by the College of Computer Studies of Central Philippine University (CPU), Iloilo                     city, intended to aid the enrolment processes of students as well as provide a proper queuing system to systematically improve the situation.
+     Their system include important modules that the DCISM Department currently need such as an electronic bulletin where announcements regarding concerns and enrollment updates within the department are posted. 
+
+	This is relevant to our proposed system as it serves as a perfect guide and blueprint of what the department desperately needs in order to fix the current issues faced especially in the enrollment period.
+     Reference: https://repository.cpu.edu.ph/handle/20.500.12852/2257
+
+4. What Makes Your App Different?
+     Furthermore, it is distinct from the systems aforementioned as it is built to solve one particular narrow problem i.e. helping students track and and get notified about ongoing enrollment concern updates such as newly opened course schedules, recently available courses from petitions, petitioned courses’ statuses, queuing notifier, and many more, which the systems lack.
 
