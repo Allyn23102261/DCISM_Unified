@@ -44,12 +44,12 @@ Secondary users include DCISM faculty and administrative staff, who can use the 
 
 3. Existing Solutions
 
-	a. ISMIS
+	a. ISMIS - 
 		ISMIS serves as the university’s primary student information and enrollment platform. Students use it to access official enrollment information, view subjects and schedules, and perform enrollment-related transactions.
  		Although ISMIS contains important information, students may still need to repeatedly open the platform to determine whether a course slot has become available or whether enrollment information has changed. It primarily serves as a system for managing official student records and 				transactions rather than as a personalized notification system for every enrollment concern.
 
 
-	b. Hermes Queueing System
+	b. Hermes Queueing System -
 		The Hermes Queueing System helps organize students seeking assistance from university personnel. It provides a structured queue and prevents students from forming an unorganized physical line during enrollment.
 		However, queue organization does not completely remove uncertainty. Students may still be unsure how long they must wait, when they should return, or whether the processing of earlier concerns will delay their turn. Hermes also focuses mainly on queue management and does not necessarily 		cover course-slot availability, petitioned courses, override requests, course equivalency, simultaneous enrollment requests, or enrollment deadlines.
 
