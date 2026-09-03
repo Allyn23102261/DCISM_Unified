@@ -28,3 +28,18 @@ Medina, Karl Emmanuel - BSIT 3
 Nuñeza, Oieu Zhydd - BSIT 
 Segundino, Allyn James - BSIT 3
 
+
+1. The Problem
+
+During enrollment, DCISM students often experience long waiting times and uncertainty when dealing with enrollment concerns such as unavailable subject slots, petitioned courses, and other registration issues. Students may need to repeatedly check ISMIS, contact the department, or wait in long queues without knowing when their concern will be addressed.
+
+This creates unnecessary delays, confusion, and inconvenience for both students and department staff. DCISM_Unified aims to solve this problem by improving how enrollment concerns and updates are communicated and managed, making the process more organized, efficient, and convenient for students.
+
+2. Target Users
+
+The primary target users of DCISM_Unified are students under the Department of Computer, Information Sciences and Mathematics (DCISM) who experience enrollment-related concerns. These include students who need to request additional course slots, follow up on petitioned subjects, resolve enrollment issues, or wait for assistance from the department.
+
+The application is especially useful for students who currently have to repeatedly check ISMIS, contact department personnel, or wait in long queues without knowing when their concern will be accommodated. Through DCISM_Unified, students can receive notifications about available slots, updates on petitioned courses, and an estimated time when their enrollment concern can be handled.
+
+Secondary users include DCISM faculty and administrative staff, who can use the system to organize student concerns, provide updates, and manage the enrollment queue more efficiently.
+
