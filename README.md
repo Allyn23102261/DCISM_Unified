@@ -44,9 +44,15 @@ Secondary users include DCISM faculty and administrative staff, who can use the 
 
 3. Existing Solutions
 
-	a.
+	a. ISMIS
+		ISMIS serves as the university’s primary student information and enrollment platform. Students use it to access official enrollment information, view subjects and schedules, and perform enrollment-related transactions.
+ 		Although ISMIS contains important information, students may still need to repeatedly open the platform to determine whether a course slot has become available or whether enrollment information has changed. It primarily serves as a system for managing official student records and 				transactions rather than as a personalized notification system for every enrollment concern.
 
-	b.
+
+	b. Hermes Queueing System
+		The Hermes Queueing System helps organize students seeking assistance from university personnel. It provides a structured queue and prevents students from forming an unorganized physical line during enrollment.
+		However, queue organization does not completely remove uncertainty. Students may still be unsure how long they must wait, when they should return, or whether the processing of earlier concerns will delay their turn. Hermes also focuses mainly on queue management and does not necessarily 		cover course-slot availability, petitioned courses, override requests, course equivalency, simultaneous enrollment requests, or enrollment deadlines.
+
 
 	c. College of Computer Studies queuing and electronic bulletin system
 
@@ -59,6 +65,8 @@ Secondary users include DCISM faculty and administrative staff, who can use the 
 	Reference: https://repository.cpu.edu.ph/handle/20.500.12852/2257
 
 4. What Makes Your App Different?
+
+	DCISM_Unified is different because it combines enrollment-related updates from multiple sources into one student-centered notification platform. Instead of replacing ISMIS, Hermes, or existing communication channels, it works as a connecting layer between them.
 
 	Furthermore, it is distinct from the systems aforementioned as it is built to solve one particular narrow problem, i.e., helping students track and get notified about ongoing enrollment concern updates such as newly opened course schedules, recently available courses from petitions, petitioned courses' statuses, queuing notifier, and many more, which the systems lack.
 
