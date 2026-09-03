@@ -44,16 +44,15 @@ Segundino, Allyn James - BSIT 3
 Secondary users include DCISM faculty and administrative staff, who can use the system to organize student concerns, provide updates, and manage the enrollment queue more efficiently.
 
 3. Existing Solutions
-
-     a. 
-     b. 
+     a.
+     b.
      c. College of Computer Studies queuing and electronic bulletin system
-             Outside of the institution’s already implemented and relating systems, there is also an existing platform made available by the College of Computer Studies of Central Philippine University (CPU), Iloilo                     city, intended to aid the enrolment processes of students as well as provide a proper queuing system to systematically improve the situation.
+   		Outside of the institution’s already implemented and relating systems, there is also an existing platform made available by the College of Computer Studies of Central Philippine University (CPU), Iloilo                     	city, intended to aid the enrolment processes of students as well as provide a proper queuing system to systematically improve the situation.
      Their system include important modules that the DCISM Department currently need such as an electronic bulletin where announcements regarding concerns and enrollment updates within the department are posted. 
 
 	This is relevant to our proposed system as it serves as a perfect guide and blueprint of what the department desperately needs in order to fix the current issues faced especially in the enrollment period.
      Reference: https://repository.cpu.edu.ph/handle/20.500.12852/2257
 
-4. What Makes Your App Different?
-     Furthermore, it is distinct from the systems aforementioned as it is built to solve one particular narrow problem i.e. helping students track and and get notified about ongoing enrollment concern updates such as newly opened course schedules, recently available courses from petitions, petitioned courses’ statuses, queuing notifier, and many more, which the systems lack.
+5. What Makes Your App Different?
+   Furthermore, it is distinct from the systems aforementioned as it is built to solve one particular narrow problem i.e. helping students track and and get notified about ongoing enrollment concern updates such as newly opened course schedules, recently available courses from petitions, petitioned courses’ statuses, queuing notifier, and many more, which the systems lack.
 
