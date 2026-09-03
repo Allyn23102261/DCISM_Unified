@@ -81,3 +81,15 @@ Secondary users include DCISM faculty and administrative staff, who can use the 
 		1. Official integration — USC/ISMIS or Hermes exposes an API/webhook you can subscribe to for real-time slot and petition status, but depends entirely on 		   institutional approval.
 		2. Workaround (scraping/polling) — periodically checking ISMIS for changes, doable without official access, but fragile (breaks if ISMIS changes its 			   layout).
 
+
+
+6. The One Feature That Must Survive
+Course Slot & Petitioned Course Availability Alerts
+	Notifies a student the moment a needed course opens a slot or a petitioned course gets approved — pulled from ISMIS via polling, no official API needed.
+	Why this one:
+	- It's the actual core complaint — your Problem Statement leads with unavailable slots and petitioned courses, before it even mentions queueing.
+	- It's the only feature that doesn't need USC's approval to build. Hermes queue integration requires official API access, which could stall the whole project; slot/petition scraping doesn't.
+	- It's cheap and fast — a polling job + push notifications, buildable in weeks on your existing stack.
+	
+	Cut first: Hermes queue-number alerts, override/equivalency tracking, student-leader posting, deadline reminders. All addable later; none are the reason students open the app.
+
