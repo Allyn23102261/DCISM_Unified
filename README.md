@@ -40,7 +40,6 @@ Segundino, Allyn James - BSIT 3
      The primary target users of DCISM_Unified are students under the Department of Computer, Information Sciences and Mathematics (DCISM) who experience enrollment-related concerns. These include students who need to request additional course slots, follow up on petitioned subjects, resolve enrollment issues, or wait for assistance from the department.
 
      The application is especially useful for students who currently have to repeatedly check ISMIS, contact department personnel, or wait in long queues without knowing when their concern will be accommodated. Through DCISM_Unified, students can receive notifications about available slots, updates on petitioned courses, and an estimated time when their enrollment concern can be handled.
-
 Secondary users include DCISM faculty and administrative staff, who can use the system to organize student concerns, provide updates, and manage the enrollment queue more efficiently.
 
 3. Existing Solutions
